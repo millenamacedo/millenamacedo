@@ -1,9 +1,9 @@
 ### 
-<h1>Oiii! Me chamo Millena Macedo 👋 </h1>
+<h1>Oiii! Sou a Millena Macedo 👋 </h1>
 
--  Curso análise e desenvolvimento de sistemas na Unicamp
-- 👯 Estou buscando minha primeira oportunidade de emprego na área da tecnologia
-- 😄 Pronomes: Ela/Dela
+- :school: Curso análise e desenvolvimento de sistemas na Unicamp
+- :computer: Estou buscando minha primeira oportunidade de emprego na área da tecnologia
+- :movie_camera: Meu hobby favorito é assitir filmes e séries
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=millenamacedo&show_icons=true&theme=radical)
 
